@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is a solution for the [Join Our Newsletter](https://devchallenges.io/challenge/simple-feature-section-challenge) challenge from [devChallenges.io](http://devchallenges.io/). It is a simple email subscription form built with responsive and semantic HTML and CSS techniques.
+This is a solution for the [Simple Feature Section](https://devchallenges.io/challenge/simple-feature-section-challenge) challenge from [devChallenges.io](http://devchallenges.io/). It is a simple email subscription form built with responsive and semantic HTML and CSS techniques.
 
 ![screenshot](https://i.imgur.com/Dq3GH1t.png[/img)
 
