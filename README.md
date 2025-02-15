@@ -31,3 +31,4 @@ Working on this project helped reinforce my understanding of:
 
 A big thanks to [devChallenges.io](https://devchallenges.io/) for providing this challenge!
 # simple-feature-section
+# simple-feature-section
