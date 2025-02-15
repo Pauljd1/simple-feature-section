@@ -10,8 +10,7 @@ This is a solution for the [Simple Feature Section](https://devchallenges.io/cha
 
 You can view the live demo and solution using the links below:
 
-- [Live Demo](/)
-- [Solution](/)
+- [Live Demo](https://simplefet.netlify.app)
 - [Challenge](https://devchallenges.io/challenge/simple-feature-section-challenge)
 
 ## What I Learned
